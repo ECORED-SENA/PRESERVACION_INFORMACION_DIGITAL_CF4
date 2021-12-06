@@ -173,139 +173,144 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Archivo General de la Nación. (s,f). Fundamentos de preservación digital a largo plazo. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.archivogeneral.gov.co/caja_de_herramientas/docs/12.%20herramientas/DT%20-%20MANUAL%20FUNDAMENTOS%20DE%20PRESERVACION%20DIGITAL%20A%20LARGO%20PLAZO.pdf',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Ley 23 de 1982. Sobre derechos de autor. 28 de enero de 1982. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.defensoria.gov.co/public/Normograma%202013_html/Normas/Ley_23_1982.pdf',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Dirección nacional de derechos de autor. (2021). Preguntas frecuentes. ',
+      link: 'http://derechodeautor.gov.co:8080/preguntas-frecuentes#10',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Lisot (2018). ¿Qué es un Sistema de Gestión de la Seguridad de la Información (SGSI)? ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.lisot.com/que-es-un-sistema-de-gestion-de-la-seguridad-de-la-informacion-sgsi/#',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Ministerio de Educación Nacional. (2020). Manual Sistema Integrado de Conservación – SIC 2020.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.mineducacion.gov.co/1759/articles-322548_recurso_25.pdf',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'Ministerio de Educación Nacional. (2021). Plan de preservación digital. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://www.mineducacion.gov.co/1759/articles-362792_recurso_89.pdf',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Ministerio de Educación Nacional. (2021). Tablas de control de acceso.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.mineducacion.gov.co/1759/w3-article-398601.html?_noredirect=1',
+    },
+    {
+      referencia: 'MinTIC. (2017). Formato de archivos de uso común. ',
+      link:
+        'https://mintic.gov.co/arquitecturati/630/articles-61594_recurso_pdf.pdf',
+    },
+    {
+      referencia: '(OMPI, 2021). Tratado de la OMPI sobre derechos de autor. ',
+      link: 'https://www.wipo.int/treaties/es/ip/wct/index.html',
+    },
+    {
+      referencia: 'Oracle. (2021). Base de datos. ',
+      link: 'https://www.oracle.com/co/database/what-is-database/',
+    },
+    {
+      referencia: 'Tecnología de información. (2018). Integridad de datos. ',
+      link: 'https://www.tecnologias-informacion.com/integridaddatos.html',
+    },
+    {
+      referencia: 'UNESCO ORG. (2021). El patrimonio digital. ',
+      link:
+        'https://es.unesco.org/themes/information-preservation/digital-heritage',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Comunicación',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Es el intercambio de información entre dos o más personas con el fin de recibir o dar información.',
     },
     {
-      termino: '<em>Suftware</em>',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      termino: 'Consulta',
+      significado: 'Buscar información en una fuente.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Digital',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Dispositivos que son diseñados con un sistema binario para almacenar información.',
     },
     {
-      termino: '<em>Áectores</em>',
-      significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+      termino: 'Flexibilidad',
+      significado: 'Capacidad de adaptarse a las circunstancias.',
     },
     {
-      termino: 'Moda',
+      termino: 'Gestión',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Es la implementación de algunas actividades específicas para llegar a un objetivo.',
     },
     {
-      termino: 'Diseña',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+      termino: 'Información',
+      significado: 'Es un grupo de datos que forman un mensaje.',
     },
     {
-      termino: 'DIseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+      termino: 'Metadatos',
+      significado: 'Es la descripción de datos.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Organización',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Es un equipo de trabajo que está capacitado para lograr un objetivo. ',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Política',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Es un grupo de normas establecidas para la toma de decisiones.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Preservación',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es un conjunto de actividades para proteger un registro durante su ciclo de vida.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Programa',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es un algoritmo en un lenguaje de programación que nos permite desarrollar ciertas tareas.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
+        'Gestor de la información y contenidos digitales. (2020). Preservación digital. [video]. Youtube.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://youtu.be/GkOJJ7g1wU8',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Canal AGN Colombia. (2018). Plan de preservación de largo plazo. [video]. Youtube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/avy2qDB3CDs',
+    },
+    {
+      texto: 'Código Compilado. (2015). Bases de datos. [video]. Youtube. ',
+      tipo: 'Video',
+      link: 'https://youtu.be/yoeV4Ex8C8U',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: ['/downloads/prueba.pdf', '/downloads/prueba.pdf'],
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
+        'Digital UANL. (2015). Bases de datos: consultas. [video]. Youtube.',
       tipo: 'Video',
-      link: ['https://www.google.com/', 'https://www.google.com/'],
+      link: 'https://youtu.be/uls5cGWGZvw',
     },
   ],
   creditos: {
@@ -321,7 +326,29 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: 'Jhon Jairo Villamizar Mora',
+        cargo: 'Experto temático',
+        centro:
+          'Centro de la Industria, la Empresa y los Servicios. CIES. <br>Regional Norte de Santander',
+      },
+      {
+        nombre: 'Claudia Milena Hernández Naranjo',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Diseño y Metrología <br>Regional Distrito Capital',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Revisora metodológica y pedagógica',
+        centro: 'Centro de Diseño y Metrología <br>Regional Distrito Capital',
+      },
+      {
+        nombre: 'Jhon Jairo Rodríguez Pérez',
+        cargo: 'Diseñador y evaluador instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica <br>Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -329,53 +356,59 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios <br>Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Juan Carlos Tapias Rueda',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Andrea Paola Botello De la Rosa',
+        cargo: 'Desarrollo front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Andres Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: ' ',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: ' ',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
         nombre: 'Álvaro Andrés Angarita Ramirez',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios <br>Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varón Molina',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios <br>Regional Tolima',
       },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios <br>Regional Tolima',
       },
     ],
   },
