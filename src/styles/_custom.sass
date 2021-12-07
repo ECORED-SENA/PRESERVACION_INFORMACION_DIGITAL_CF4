@@ -13,7 +13,11 @@ italic-strong
   font-weight: bold
 
 
-
+.bloque-fondo-intro
+  background-image: url(../assets/curso/fondo-intro.png)
+  background-repeat: no-repeat
+  background-size: contain
+  background-position: bottom 
 .bloque-fondo-tema
   background-image: url(../assets/curso/fondo-tema.png)
   background-repeat: no-repeat
@@ -22,3 +26,45 @@ italic-strong
 
 .bg-gris
   background-color: #EDE8FF
+.bg-primario2
+  background-color: #c3eff6
+.bg-secundario  
+  background-color: #592FE6
+.bg-secundario2
+  background-color: #ab96f2    
+
+
+.bloque-texto-b i
+  font-size: 2em
+.bloque-texto-b i:last-of-type
+  float: right
+.bloque-texto-b .text-right
+  display: flex
+  flex-direction: row
+  justify-content: flex-end
+
+
+.img-infografica-b.color-acento-botones .img-infografica-b__item__dot:before
+  border: 4px solid #FF5151
+  background-color: #FF9B6A
+.img-infografica__item__tooltip, .img-infografica-b__item__tooltip
+  background-color: #FF9B6A
+.img-infografica-b__modal
+  background-color: rgba(255, 155, 106, 0.9)
+
+
+
+
+
+// TARJETA DISPLAY TEMA 1
+.tarjeta-display
+  position: relative
+  &__content
+    display: block
+.tarjeta-display .content-tarjeta
+  display: none
+.tarjeta-display__content.bg-secundario2:hover
+  background-color: #c3eff6
+.tarjeta-display__content.bg-secundario2:hover .content-tarjeta
+  display: inherit
+  
