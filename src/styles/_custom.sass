@@ -23,6 +23,11 @@ italic-strong
   background-repeat: no-repeat
   background-size: contain
   background-position: bottom 
+.bg-componente
+  background-image: url(../assets/curso/bg-componente.png)
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: bottom   
 
 .bg-gris
   background-color: #EDE8FF
@@ -32,7 +37,12 @@ italic-strong
   background-color: #592FE6
 .bg-secundario2
   background-color: #ab96f2    
-
+.bg-acento-botones2
+  background-color: #ffebe1
+.bg-acento-botones3
+  background-color: #f0c0a9
+.bg-acento-botones4
+  background-color: #FFD1A2
 
 .bloque-texto-b i
   font-size: 2em
@@ -53,6 +63,36 @@ italic-strong
   background-color: rgba(255, 155, 106, 0.9)
 
 
+.tarjeta-flip.color-acento-botones .tarjeta-flip__img
+  background-color: #f0c0a9
+.tarjeta-flip__img, .tarjeta-flip__contenido
+  display: flex
+  flex-direction: column
+  justify-content: center
+.tarjeta-flip__img img  
+  width: 260px
+  margin: 0 auto
+.tarjeta-flip.color-acento-botones .tarjeta-flip__contenido
+  background-color: #c3eff6  
+.tarjeta-flip__contenido p, .tarjeta-flip__contenido h5
+  color: $color-sistema-texto !important
+
+
+.bloque-texto-a.color-secundario.tema4
+  background-color: #88E0EF
+.bloque-texto-b.color-primario:before
+  background-color: #e4f3ff
+
+
+.tabs-a__tab
+  background-color: #88E0EF
+
+
+.cajon.color-acento-contenido
+  background-color: #ffcaca
+
+
+
 
 
 
@@ -68,3 +108,18 @@ italic-strong
 .tarjeta-display__content.bg-secundario2:hover .content-tarjeta
   display: inherit
   
+
+// TARJETA DISPLAY TEMA 4-1
+.tema4-1 .tarjeta
+  border-radius: 0px
+  width: 100%
+.tarjeta-avatar .tarjeta
+  height: auto  
+.tema4-1 .tarjeta.tarjeta__content .texto-content-display
+  display: none
+.tema4-1 .tarjeta:hover
+  background-color: #592FE6
+.tema4-1 .tarjeta.tarjeta__content:hover h3, .tema4-1 .tarjeta.tarjeta__content:hover .texto-content-display p 
+  color: #FFF !important
+.tema4-1 .tarjeta.tarjeta__content:hover .texto-content-display
+  display: inherit
