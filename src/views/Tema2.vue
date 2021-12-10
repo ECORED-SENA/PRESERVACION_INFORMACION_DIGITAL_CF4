@@ -11,7 +11,7 @@
     p.mb-4(data-aos="fade") Es importante tener claridad sobre la definición de preservación a largo plazo, ver figura 1:
 
     .row.justify-content-center.mb-4(data-aos="fade-down")
-      .col-md-8
+      .col-lg-8.col-md-10
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
