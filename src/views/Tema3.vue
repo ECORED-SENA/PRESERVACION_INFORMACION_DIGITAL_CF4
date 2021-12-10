@@ -67,8 +67,9 @@
 
     p.mb-4(data-aos="fade") Una vez valorada la información de la organización y su fin, se puede determinar el tipo de copia a realizar y su periodicidad. 
 
-
-
+    .bg-componente2.py-4
+      h3.text-center Tipos de copias de seguridad
+      Botones3
 
 
     Separador
@@ -132,10 +133,15 @@
 </template>
 
 <script>
+import Botones3 from '../components/Botones3.vue'
 export default {
   name: 'Tema3',
+  components: {
+    Botones3,
+  },
   data: () => ({
     // variables de vue
+    mostrarIndicador: true,
   }),
   mounted() {
     this.$nextTick(() => {
