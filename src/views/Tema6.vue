@@ -6,9 +6,9 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Software de gestión documental 
+      h1 <em>Software</em> de gestión documental 
     
-    p.mb-4(data-aos="fade") El software de gestión documental es un sistema (programa) que almacena, organiza y recupera documentos de las empresas donde facilita el manejo y administración de grandes cantidades de información de manera eficiente y segura. Al hacer referencia a documentos de empresa, estos pueden ser:  facturas de compra, de venta, hojas de datos, documentos de ingresos, documentos de gastos, contratos, historias, expedientes, entre otros, según la naturaleza y fin de las empresas. La gestión documental mitiga una serie de dificultades, como:
+    p.mb-4(data-aos="fade") El <em>software</em> de gestión documental es un sistema (programa) que almacena, organiza y recupera documentos de las empresas donde facilita el manejo y administración de grandes cantidades de información de manera eficiente y segura. Al hacer referencia a documentos de empresa, estos pueden ser:  facturas de compra, de venta, hojas de datos, documentos de ingresos, documentos de gastos, contratos, historias, expedientes, entre otros, según la naturaleza y fin de las empresas. La gestión documental mitiga una serie de dificultades, como:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10.bg-acento-botones2
@@ -27,9 +27,9 @@
                 i.fas.fa-check
                 | La incompatibilidad de diferentes formatos: PDF, EXCEL, WORD, ETC, de los documentos originales.  
 
-    h3.mb-4(data-aos="fade-right") Plan integrado de conservación documental 
+    h3.mb-4(data-aos="fade-right") Ventajas de <em>software</em> de gestión documental
 
-    p.mb-4(data-aos="fade") A continuación, se mencionan algunas ventajas, al implementar software de gestión documental:
+    p.mb-4(data-aos="fade") A continuación, se mencionan algunas ventajas, al implementar <em>software</em> de gestión documental:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-10
@@ -64,7 +64,7 @@
                 i.fas.fa-check
                 | Controlar el ciclo de vida de los documentos.           
 
-    p.mb-4(data-aos="fade") Teniendo en cuenta la gran revolución tecnológica digital que actualmente estamos viviendo, las empresas han optado por implementar Software de gestión documental que permita facilitar la realización de las tareas administrativas. Estos software pueden adquirirse de dos formas:
+    p.mb-4(data-aos="fade") Teniendo en cuenta la gran revolución tecnológica digital que actualmente estamos viviendo, las empresas han optado por implementar <em>Software</em> de gestión documental que permita facilitar la realización de las tareas administrativas. Estos <em>software</em> pueden adquirirse de dos formas:
 
     .row.justify-content-center
       .col-sm-6.col-xl-5.mb-4
@@ -72,9 +72,9 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img
               img.mb-4(src='@/assets/curso/tema6-flip1.svg', alt='Software disponibles en el mercado')
-              h2 Software disponibles en el mercado
+              h2 <em>Software</em> disponibles en el mercado
             .tarjeta-flip__contenido.p-5
-              h2.mb-3 Software disponibles en el mercado
+              h2.mb-3 <em>Software</em> disponibles en el mercado
               p.mb-0 Estas soluciones usualmente se encuentran en el mercado a nivel nacional o mundial, donde las empresas compran la licencia de su uso y pueden parametrizar las utilidades según las necesidades de la organización. Ejemplo: Google Apps for work, Microsoft Office 365, Microsoft SharePoint Oline, Oper Text Content Suite, Docuware, Alfresco. 
       .col-sm-6.col-xl-5.mb-4
         .tarjeta.tarjeta-flip.color-acento-botones.text-center(@mouseover="indicadorTarjetaFlip = false")
@@ -82,10 +82,10 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img
               img.mb-4(src='@/assets/curso/tema6-flip2.svg', alt='Software diseñados a la medida')
-              h2 Software diseñados a la medida
+              h2 <em>Software</em> diseñados a la medida
             .tarjeta-flip__contenido.p-5
-              h2.mb-3 Software diseñados a la medida
-              p.mb-0 Estas soluciones son diseñadas de manera personalizada por un grupo de programadores o compañía especializada en producir Software, donde previamente levantarán las necesidades de la empresa con la finalidad de construir una solución que se ajuste a la medida. 
+              h2.mb-3 <em>Software</em> diseñados a la medida
+              p.mb-0 Estas soluciones son diseñadas de manera personalizada por un grupo de programadores o compañía especializada en producir <em>Software</em>, donde previamente levantarán las necesidades de la empresa con la finalidad de construir una solución que se ajuste a la medida. 
 
 
 

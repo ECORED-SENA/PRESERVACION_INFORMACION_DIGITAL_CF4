@@ -36,7 +36,7 @@
         img(src='@/assets/curso/tema2-img3.jpg', alt='Imagen decorativa')  
         h4.bg-secundario.p-2.mb-0 Documentos de archivo digitalizados
       .col-12.align-items-center
-        h1.bg-acento-contenido.text-white.text-center.mb-3.p-2 Incluye: <em>Software y Hardware</em>
+        h1.bg-acento-contenido.text-white.text-center.mb-3.p-2 Incluye: <em>Software</em> y <em>Hardware</em>
         figcaption Nota. SENA (2021).
 
     p.mb-4(data-aos="fade") La preservación digital debe guiarse por principios, políticas, estándares y estrategias para que los archivos digitales se mantengan en su estado óptimo y sigan siendo útiles a lo largo del tiempo.
@@ -161,7 +161,7 @@
             .col-md-6.mb-4.mb-md-0
               h4 7. Conservación a formatos longevos normalizados  
               p Cuando los documentos llegan en diferentes formatos y no están incluidos en la lista estándar, deben modificar el formato para recuperar información.
-              p Los archivos electrónicos deben convertirse a un formato estándar independientemente de si el software es especializado o no.
+              p Los archivos electrónicos deben convertirse a un formato estándar independientemente de si el <i>software</i> es especializado o no.
             .col-md-6
               figure
                 img(src='@/assets/curso/tema2-1-slide7.jpg', alt='Conservación a formatos longevos normalizados ')   
@@ -177,7 +177,7 @@
 
     .texto-resaltado.text-center.text-white.mb-5
       h3.mb-0
-        span.bg-acento-contenido.p-3 (D = Difusión) (P = Preservación) Contenido de Texto.
+        span.bg-acento-contenido.p-3 (D = Difusión) (P = Preservación) Contenido de Texto
 
 
     .titulo-sexto.color-secundario(data-aos="fade-right")
@@ -198,7 +198,7 @@
           tr
             td 
               strong Texto Plano
-            td Formato que contiene únicamente texto formado solo por carácteres que son legibles, sin ningún tipo de formato tipográfico 
+            td Formato que contiene únicamente texto formado solo por carácteres que son legibles, sin ningún tipo de formato tipográfico.
             td 
               ul.lista-ul--color.tabla
                 li.mb-4
@@ -227,7 +227,7 @@
           tr
             td 
               strong Office OpenXML
-            td Formato de procesador de textos basado en lenguaje XML abierto de Microsoft Office
+            td Formato de procesador de textos basado en lenguaje XML abierto de Microsoft Office.
             td 
               ul.lista-ul--color.tabla
                 li.mb-4
@@ -420,7 +420,43 @@
                   |  
                 li.mb-5
                   i.far.fa-check-circle
-                  |    
+                  | 
+          tr
+            td 
+              strong PDF/A-3
+            td 
+              ul.lista-ul--color.tabla
+                li.mb-4
+                  i.fas.fa-circle
+                  | PDF/A-3 Ofrece soporte para archivos incrustados.
+                li.mb-4
+                  i.fas.fa-circle
+                  | PDF/A-3b (Subnivel b = básico) Se cumplen todos los requisitos descritos como necesarios para un PDF/A-3.
+                li
+                  i.fas.fa-circle
+                  | PDF/A-3a (Subnivel a = avanzado) etiquetado de forma que se describa y conserve la estructura lógica —el orden de lectura.
+            td 
+              ul.lista-ul--color.tabla
+                li
+                  i.fas.fa-circle
+                  strong .pdf  
+            td 
+              ul.lista-ul--color.tabla
+                li
+                  i.fas.fa-circle
+                  strong  ISO 32000-1
+            td 
+            td 
+              ul.lista-ul--color.check-tabla
+                li.mb-5
+                  i.far.fa-check-circle
+                  |  
+                li.mb-5
+                  i.far.fa-check-circle
+                  |  
+                li.mb-5
+                  i.far.fa-check-circle
+                  |                           
           tr
             td 
               strong XML
@@ -531,7 +567,7 @@
               ul.lista-ul--color.tabla
                 li
                   i.fas.fa-circle
-                  | Formato de diseño de procesos para almacenar el diagrama visual y la sintaxis de proceso de los modelos (workflow).
+                  p.mb-0 Formato de diseño de procesos para almacenar el diagrama visual y la sintaxis de proceso de los modelos (<em>workflow</em>).
             td 
               ul.lista-ul--color.tabla
                 li
@@ -541,7 +577,7 @@
               ul.lista-ul--color.tabla
                 li
                   i.fas.fa-circle
-                  strong WfMC (Workflow Management Coalition)
+                  strong WfMC (<em>Workflow</em> Management Coalition)
             td 
               ul.lista-ul--color.check-tabla
                 li

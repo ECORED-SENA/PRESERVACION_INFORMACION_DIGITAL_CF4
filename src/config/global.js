@@ -118,7 +118,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '5.2',
-            titulo: 'Derecho de autor',
+            titulo: 'Derechos de autor',
             hash: 't_5_2',
           },
         ],
@@ -127,7 +127,7 @@ export default {
         nombreRuta: 'tema6',
         icono: 'far fa-file-alt',
         numero: '6',
-        titulo: 'Software de gestión documental',
+        titulo: '<em>Software</em> de gestión documental',
         desarrolloContenidos: true,
       },
     ],
@@ -388,7 +388,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
-        nombre: ' ',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
