@@ -8,7 +8,7 @@
     .row.mb-4.justify-content-center.align-items-center
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0.mb-lg-5(data-aos="fade-right")
         .tarjeta.tarjeta--gris.h-100.d-flex.align-items-center.p-lg-2
-          figure.px-lg-5
+          figure.px-lg-5.p-5
             img.px-lg-2.py-lg-4(src="@/assets/curso/act-didactica.svg", alt="Repaso")
       .col-12.col-md-8.col-lg-9.mb-lg-5(data-aos="fade-left")
         .col-lg-11.mb-lg-5.mb-3 

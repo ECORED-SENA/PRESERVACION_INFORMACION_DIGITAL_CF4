@@ -20,7 +20,7 @@
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10.bg-acento-botones2
         .row.justify-content-center.align-items-center.p-4
-          .col-lg-3.mb-lg-0.mb-4.px-lg-4
+          .col-lg-3.col-4.mb-lg-0.mb-4.px-lg-4
             img.px-lg-4(src='@/assets/curso/tema5-ico.svg', alt='Icono decorativa')  
           .col-lg-9
             ul.lista-ul--color

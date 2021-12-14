@@ -61,7 +61,7 @@
     p.mb-4(data-aos="fade") Según la forma de organizar los datos, se puede trabajar con bases de datos especializadas para cada tipo de labor:
    
     .row
-      .col-md-4
+      .col-md-4.mb-md-0.mb-4
         img(src='@/assets/curso/tema4-2-img.png' alt='Base de datos según su forma de organización')
       .col-md-8 
         TabsD.color-acento-botones.mb-5

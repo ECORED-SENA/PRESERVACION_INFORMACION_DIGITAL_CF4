@@ -19,14 +19,14 @@
         h3 Copia Completa
         p.mb-4 Se realiza una copia de seguridad de todos los archivos y carpetas existentes. Al hacer otras copias, se guarda toda la lista de archivos. Restauración de copia de seguridad completa rápida. Sin embargo, cada uno de ellos corre lentamente y ocupa más espacio que el resto.
         .row
-          .col-lg-4
+          .col-lg-4.col-4
             img.px-3.mb-4(src='@/assets/curso/tema3-4-tarjeta-img1.svg', alt='Imagen decorativa')
-          .col-lg-4.text-center
+          .col-lg-4.col-4.text-center
             img.px-3.mb-4(src='@/assets/curso/tema3-4-tarjeta-img2.svg', alt='Imagen decorativa')
             p.mb-2 <strong>Copia completa</strong>
             p.mb-2 Día 1
             p.mb-0 Domingo
-          .col-lg-4.text-center
+          .col-lg-4.col-4.text-center
             img.px-3.mb-4(src='@/assets/curso/tema3-4-tarjeta-img3.svg', alt='Imagen decorativa')
             p.mb-2 <strong>Copia completa</strong>
             p.mb-2 Día 2
@@ -36,15 +36,15 @@
         h3 Copia Incremental
         p.mb-4 En primer lugar, se realiza una copia de seguridad completa y las copias posteriores contienen sólo los cambios realizados desde la última copia de seguridad. Es mucho más rápido que una copia de seguridad completa y ocupa menos espacio, pero la restauración es más lenta que una copia de seguridad completa o diferencial.
         .row.text-center
-          .col-lg-4
+          .col-lg-4.col-4
             p.mb-1 <strong>Backup Incremental 1</strong>
             img.px-3.mb-3(src='@/assets/curso/tema3-4-tarjeta2-img1.svg', alt='Imagen decorativa')
             p.mb-2 <strong>12 GB</strong>
-          .col-lg-4.text-center
+          .col-lg-4.col-4.text-center
             p.mb-1 <strong>Backup Incremental 2</strong>
             img.px-3.mb-3(src='@/assets/curso/tema3-4-tarjeta2-img2.svg', alt='Imagen decorativa')
             p.mb-2 <strong>23 GB</strong>
-          .col-lg-4.text-center
+          .col-lg-4.col-4.text-center
             p.mb-1 <strong>Backup Incremental 3</strong>
             img.px-3.mb-3(src='@/assets/curso/tema3-4-tarjeta2-img3.svg', alt='Imagen decorativa')
             p.mb-2 <strong>7 GB</strong>
@@ -53,19 +53,19 @@
         h3 Copia Diferencial
         p.mb-4 Cambios realizados después de guardar una copia de seguridad completa. Es más rápido y requiere menos espacio que una copia de seguridad completa, pero ocupa más espacio que una copia de seguridad incremental. La restauración es más lenta que la copia de seguridad completa y más rápida que la copia de seguridad incremental.
         .row.text-center.align-items-end
-          .col-lg-3
+          .col-lg-3.col-4
             p.mb-1 <strong>Backup Full</strong>
             img.mb-3(src='@/assets/curso/tema3-4-tarjeta3-img1.svg', alt='Imagen decorativa')
             p.mb-2 <strong>20 GB</strong>
-          .col-lg-3.text-center
+          .col-lg-3.col-4.text-center
             p.mb-1 <strong>Diferencial 1</strong>
             img.px-3.mb-3(src='@/assets/curso/tema3-4-tarjeta3-img2.svg', alt='Imagen decorativa')
             p.mb-2 <strong>4 GB</strong>
-          .col-lg-3.text-center
+          .col-lg-3.col-4.text-center
             p.mb-1 <strong>Diferencial 2</strong>
             img.px-2.mb-3(src='@/assets/curso/tema3-4-tarjeta3-img3.svg', alt='Imagen decorativa')
             p.mb-2 <strong>6 GB</strong>
-          .col-lg-3.text-center
+          .col-lg-3.col-4.text-center
             p.mb-1 <strong>Diferencial 3</strong>
             img.px-1.mb-3(src='@/assets/curso/tema3-4-tarjeta3-img4.svg', alt='Imagen decorativa')
             p.mb-2 <strong>8 GB</strong>  

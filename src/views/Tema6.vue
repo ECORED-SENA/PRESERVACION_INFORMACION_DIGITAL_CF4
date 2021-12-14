@@ -13,7 +13,7 @@
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10.bg-acento-botones2
         .row.justify-content-center.align-items-center.p-4
-          .col-lg-3.mb-lg-0.mb-4
+          .col-lg-3.col-4.mb-lg-0.mb-4
             img.px-lg-4(src='@/assets/curso/tema6-ico.svg', alt='Icono decorativa')  
           .col-lg-9
             ul.lista-ul--color
@@ -67,7 +67,7 @@
     p.mb-4(data-aos="fade") Teniendo en cuenta la gran revolución tecnológica digital que actualmente estamos viviendo, las empresas han optado por implementar <em>Software</em> de gestión documental que permita facilitar la realización de las tareas administrativas. Estos <em>software</em> pueden adquirirse de dos formas:
 
     .row.justify-content-center
-      .col-sm-6.col-xl-5.mb-4
+      .col-sm-10.col-xl-5.mb-4
         .tarjeta.tarjeta-flip.color-acento-botones.text-center
           .tarjeta-flip__contenedor
             .tarjeta-flip__img
@@ -76,7 +76,7 @@
             .tarjeta-flip__contenido.p-5
               h2.mb-3 <em>Software</em> disponibles en el mercado
               p.mb-0 Estas soluciones usualmente se encuentran en el mercado a nivel nacional o mundial, donde las empresas compran la licencia de su uso y pueden parametrizar las utilidades según las necesidades de la organización. Ejemplo: Google Apps for work, Microsoft Office 365, Microsoft SharePoint Oline, Oper Text Content Suite, Docuware, Alfresco. 
-      .col-sm-6.col-xl-5.mb-4
+      .col-sm-10.col-xl-5.mb-4
         .tarjeta.tarjeta-flip.color-acento-botones.text-center(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
