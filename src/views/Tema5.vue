@@ -84,7 +84,7 @@
                   h3.mb-1 Ley 23 de 1982
                   p.text-small A continuación, se relaciona, la “Ley 23 de 1982”, emitida por el Congreso de la República, sobre derechos de autor, y dentro de esta misma ley, podrá consultar la ley modificatoria “Ley 44 de 1993” y el “Decreto Nacional 1474 de 2002”, donde se promulga el Tratado de la OMPI.
                 .col-sm-auto
-                  a.boton.color-secundario.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-secundario.texto-blanco(href="https://www.defensoria.gov.co/public/Normograma%202013_html/Normas/Ley_23_1982.pdf" target="_blank")
                     span Enlace
                     i.fas.fa-link
 
