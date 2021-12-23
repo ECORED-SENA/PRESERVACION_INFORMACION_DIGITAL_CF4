@@ -20,14 +20,14 @@
       .col-md-5.tarjeta-display.text-center.mb-4(data-aos="fade-right")
         .tarjeta.tarjeta-display__content.bg-secundario2.px-3.py-4
           img.mb-4(src='@/assets/curso/tema1-tarjeta1.png', alt='Plan de Conservación Documental')
-          h3 Plan de Conservación Documental
+          h3 Plan de conservación documental
           .content-tarjeta
             p.mb-0 El cual aplica a los documentos de archivo creados en medios físicos y/o análogos.
       .col-md-5.tarjeta-display.text-center.mb-4(data-aos="fade-left")
         .tarjeta.tarjeta-display__content.bg-secundario2.px-3.py-4(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img.mb-4(src='@/assets/curso/tema1-tarjeta2.png', alt='Plan de Preservación Digital a Largo Plazo')
-          h3 Plan de Preservación Digital a Largo Plazo
+          h3 Plan de preservación digital a largo plazo
           .content-tarjeta
             p.mb-0 Este aplica a documentos digitales y/o electrónicos de archivo. 
 
@@ -49,7 +49,7 @@
           div.row.bg-secundario.p-4(x="45%" y="83%" tooltip="Clic para ver más" numero="")
             .col-md-5
               h3 Mantenimiento
-              p Inspección y vigilancia de para la conservación de los documentos manteniendo sus características principales.
+              p Inspección y vigilancia para la conservación de los documentos manteniendo sus características principales.
             .col-md-7
               img(src='@/assets/curso/tema1-infografia2.png', alt='Mantenimiento') 
           div.row.bg-secundario.p-4(x="58%" y="71%" tooltip="Clic para ver más" numero="")

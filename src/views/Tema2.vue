@@ -28,7 +28,7 @@
     .row.mb-4(data-aos="fade-down")
       .col-lg-4.mb-2.text-white.text-center
         img(src='@/assets/curso/tema2-img1.jpg', alt='Imagen decorativa')  
-        h4.bg-secundario.p-2.mb-0 Documento electrónicos de archivo
+        h4.bg-secundario.p-2.mb-0 Documentos electrónicos de archivo
       .col-lg-4.mb-2.text-white.text-center
         img(src='@/assets/curso/tema2-img2.jpg', alt='Imagen decorativa')  
         h4.bg-secundario.p-2.mb-0 Documentos nacidos digitales
@@ -120,7 +120,7 @@
                 img(src='@/assets/curso/tema2-1-slide4.jpg', alt='Firmar electrónicamente')      
           .row
             .col-md-6.mb-4.mb-md-0
-              h4 5. Mantenimiento de formas electrónicas  
+              h4 5. Mantenimiento de firmas electrónicas  
               p.mb-0 Los documentos con firma electrónica tienen valor legal, y existen algunos riesgos que deben ser tratados para que sigan siendo válidos durante el tiempo de tramitación.
               p Los riesgos son:
               ul.lista-ul--color.circulo-vacio
@@ -150,7 +150,7 @@
                   | Replicación. 
                 li.mb-0
                   i.far.fa-circle
-                  | Re envasado y/o Re almacenamiento. 
+                  | Reenvasado y/o Realmacenamiento. 
                 li.mb-0
                   i.far.fa-circle
                   | Transformación.   

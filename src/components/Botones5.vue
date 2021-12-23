@@ -41,7 +41,7 @@
             | Existen varios tipos de consultas de acción, de eliminación, de actualización, de datos anexados y de creación de tablas.
 
       .tarjeta.back-secundario.py-4.px-4.px-lg-5(v-else-if="selected === 2")
-        h3 Consultas de acción
+        h3 Consultas específicas de SQL
         p.mb-1 Es aquella que se puede crear solamente escribiendo una instrucción SQL en la vista <b>SQL</b>.
         p Este tipo de consultas se realizan en el lenguaje <b>SQL</b> (Lenguaje de Consulta Estructurada (<em>Structured Query Language</em>), lenguaje que permite traer datos de una o varias tablas, como también actualizar contenidos o eliminarlos, de una manera rápida y poderosa y sobre grandes volúmenes de información. 
 

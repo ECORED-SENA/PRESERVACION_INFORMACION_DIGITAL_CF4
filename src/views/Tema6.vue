@@ -41,7 +41,7 @@
             ul.lista-ul--color
               li.mb-0 
                 i.fas.fa-check
-                | Se configura y relaciona directamente con el escaner de documentos. 
+                | Se configura y relaciona directamente con el escáner de documentos. 
               li.mb-0 
                 i.fas.fa-check
                 | Compatibilidad con todos los formatos de documentos.

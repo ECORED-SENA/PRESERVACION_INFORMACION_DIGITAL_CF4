@@ -40,7 +40,7 @@
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h2 5.1  Tipos de consulta
 
-    p.mb-0(data-aos="fade") Las consultas dependen de la información que se desea obtener de una base de datos en particular. Para realizar consultas se requiere que los usuarios tengan permisos y perfiles para poder visualizar la información requerida, es decir, los datos no deben estar disponible en su totalidad para todos los usuarios. 
+    p.mb-0(data-aos="fade") Las consultas dependen de la información que se desea obtener de una base de datos en particular. Para realizar consultas se requiere que los usuarios tengan permisos y perfiles para poder visualizar la información requerida, es decir, los datos no deben estar disponibles en su totalidad para todos los usuarios. 
     p.mb-4(data-aos="fade") A continuación se presentan, algunos tipos de consulta más utilizados:
 
     .row.justify-content-center.bg-componente.mb-5(data-aos="fade-down")
